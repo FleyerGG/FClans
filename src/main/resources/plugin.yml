@@ -1,0 +1,11 @@
+name: FClans
+version: '${project.version}'
+main: ru.fleyer.fclans.FClans
+api-version: 1.16
+authors: [ Fleyer001 ]
+description: clans system
+commands:
+  clan:
+    aliases: [c]
+  clanadmin:
+    aliases: [ca]
